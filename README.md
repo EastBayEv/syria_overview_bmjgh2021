@@ -5,3 +5,5 @@ This dataset contains information about attacks against civilian infrastructure 
 Airwars, Physicians for Human Rights, and Safeguarding Health in Conflict Coalition are the sources of this information. 
 
 Commercial use is strictly prohibited!
+
+See the [citation]() for the original research article in _British Medical Journal - Global Health_ for an introduction.   (pending acceptance)
