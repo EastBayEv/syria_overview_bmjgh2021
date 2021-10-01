@@ -7,3 +7,5 @@ This dataset contains information about attacks against civilian infrastructure 
 An introduction can be found in [Muzzall E, Perlman B, Rubenstein LS, Haar RJ. 2021. Overview of attacks against civilian infrastructure during the Syrian civil war, 2012-2018. _BMJ Global Health_ 6:e006384](https://gh.bmj.com/content/6/10/e006384).
 
 Commercial use is strictly prohibited.
+
+![readme1](/abstract.jpg)
